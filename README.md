@@ -17,6 +17,15 @@ I am currently freelancer as LaTeX book designer for the publishing house of the
 
 ---
 
+### Have a look at some examples of my work:
+
+
+- Generate Virtual Medical Reports from real data - https://github.com/NabilLawrence/EndoGPT
+
+- Taxi fare prediction API - https://github.com/oandresrincon/taxi-fare-interface
+
+---
+
 ### 💻 Programing languages and tools: 
 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
