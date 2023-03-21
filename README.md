@@ -5,7 +5,7 @@
 
 🌍  My languages 🌍
 
-- :colombia:
+- 🇨🇴 
 -
 -
 
