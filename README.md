@@ -3,7 +3,7 @@
 ## Hi, I’m Oscar Rincon 👋
 
 
-I am currently freelancer as LaTeX book designer for the publishing house of the Universidad de Antioquia. I have been a lecturer in courses of physics for the biology department and the master's degree in teaching mathematics at the University of Antioquia. 
+I am currently freelancer as LaTeX book designer for the publishing house of the Universidad de Antioquia. I have been a lecturer in courses of physics for the biology department at the University of Antioquia. 
  
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on data science projects
