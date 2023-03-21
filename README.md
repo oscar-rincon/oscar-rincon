@@ -27,6 +27,6 @@ Scikit-Learn / PyTorch / Pandas  / NumPy / Matplotlib / SiScipy/  LaTeX
 
 [![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=oandresrincon)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oandresrincon&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oandresrincon&exclude_repo=github-readme-stats,oandresrincon.github.io)](https://github.com/oandresrincon/github-readme-stats)
 
 ---
