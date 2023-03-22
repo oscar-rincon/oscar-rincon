@@ -1,9 +1,11 @@
-![](https://www.freecodecamp.org/news/content/images/2021/10/github-on-the-hunt-for-a-new-diversity-lead-developers-techworld-github-universe-png-800_450.png)
 
 
----
 
-## Hi, I’m Oscar Rincon 👋
+<p align="right" width="40%"> <img width="33%" src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif"> </p>
+
+## Hi, I’m Oscar Rincon 👋 
+
+
 
 
 I am currently freelancer as LaTeX book designer for the publishing house of the Universidad de Antioquia. I have been a lecturer in courses of physics for the biology department at the University of Antioquia. 
