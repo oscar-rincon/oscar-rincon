@@ -1,3 +1,6 @@
+![](https://www.freecodecamp.org/news/content/images/2021/10/github-on-the-hunt-for-a-new-diversity-lead-developers-techworld-github-universe-png-800_450.png)
+
+
 ---
 
 ## Hi, I’m Oscar Rincon 👋
@@ -21,11 +24,11 @@ I am currently freelancer as LaTeX book designer for the publishing house of the
 
 ### Have a look at some examples of my work:
 
-- This is my portafolio - https://www.notion.so/Oscar-Rincon-f688a1444cad47d0b8affb833a639e3a
+- [My portafolio](https://www.notion.so/Oscar-Rincon-f688a1444cad47d0b8affb833a639e3a) 
 
-- Generate Virtual Medical Reports from real data - https://github.com/NabilLawrence/EndoGPT
+- [Generate Virtual Medical Reports from real data](https://github.com/NabilLawrence/EndoGPT)
 
-- Taxi fare prediction API - https://github.com/oandresrincon/taxi-fare-interface
+- [Taxi fare prediction API](https://github.com/oandresrincon/taxi-fare-interface)
 
 ---
 
