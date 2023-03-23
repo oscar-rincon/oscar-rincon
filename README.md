@@ -1,14 +1,11 @@
 
 
+<img align="right" width="500" src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif">
 
-<p align="right" width="40%"> <img width="33%" src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif"> </p>
 
 ## Hi, I’m Oscar Rincon 👋 
 
-
-
-
-I am currently freelancer as LaTeX book designer for the publishing house of the Universidad de Antioquia. I have been a lecturer in courses of physics for the biology department at the University of Antioquia. 
+MS. in Physics from the University of Antioquia, in Colombia. I am currently freelancer as LaTeX book designer for the publishing house of the Universidad de Antioquia. I have been a lecturer in courses of physics for the biology department and the master's degree in teaching mathematics at the University of Antioquia. 
  
 - 🌱 I’m looking to collaborate on data science projects
 - 📫 oandres.rincon@udea.edu.co
