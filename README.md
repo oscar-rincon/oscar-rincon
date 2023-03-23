@@ -56,4 +56,8 @@ MS. in Physics from the University of Antioquia, in Colombia. I am currently fre
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oandresrincon" alt="oandresrincon" /></a> </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oandresrincon&count_private=true&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oandresrincon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
