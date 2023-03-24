@@ -23,8 +23,6 @@ MS. in Physics from the University of Antioquia, in Colombia. I am currently fre
 
 ### Have a look at some examples of my work:
 
-- [My portafolio](https://www.notion.so/Oscar-Rincon-f688a1444cad47d0b8affb833a639e3a) 
-
 - [Generate Virtual Medical Reports from real data](https://github.com/NabilLawrence/EndoGPT)
 
 - [Taxi fare prediction API](https://github.com/oandresrincon/taxi-fare-interface)
