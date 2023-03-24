@@ -25,8 +25,6 @@ MS. in Physics from the University of Antioquia, in Colombia. I am currently fre
 
 - [Generate Virtual Medical Reports from real data](https://github.com/NabilLawrence/EndoGPT)
 
-- [Taxi fare prediction API](https://github.com/oandresrincon/taxi-fare-interface)
-
 ---
 
 ### 💻 Programing languages and tools: 
