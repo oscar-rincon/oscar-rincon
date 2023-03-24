@@ -5,7 +5,7 @@
 
 ## Hi, I’m Oscar Rincon 👋 
 
-MS. in Physics from the University of Antioquia, in Colombia. I am currently freelancer as LaTeX book designer for the publishing house of the Universidad de Antioquia. I have been a lecturer in courses of physics for the biology department and the master's degree in teaching mathematics at the University of Antioquia. 
+MS. in Physics from the University of Antioquia, in Colombia. I am currently freelancer as LaTeX book designer for the publishing house of the Universidad de Antioquia. I have been a lecturer in courses of physics for the biology department at the University of Antioquia. 
  
 - 🌱 I’m looking to collaborate on data science projects
 - 📫 oandres.rincon@udea.edu.co
