@@ -23,7 +23,7 @@ MSc. in Physics from the University of Antioquia, in Colombia. I am currently fr
 ### Have a look at some examples of my work:
 
 - [Generate Virtual Medical Reports from real data](https://github.com/NabilLawrence/EndoGPT)
-- [Build recommendation systems to recommend Netflix movies to users] (https://github.com/oandresrincon/RecommendationSystemsNetflix)
+- [Build recommendation systems to recommend Netflix movies to users](https://github.com/oandresrincon/RecommendationSystemsNetflix)
 ---
 
 ### 💻 Programing languages and tools: 
