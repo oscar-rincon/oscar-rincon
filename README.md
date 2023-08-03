@@ -7,7 +7,6 @@
 
 MSc. in Physics from the University of Antioquia, in Colombia. I am currently freelancer as LaTeX book designer for the publishing house of the Universidad de Antioquia. 
 - 📚 I'm doing the [Deep Learning Specialization of Coursera](https://www.coursera.org/specializations/deep-learning)
-- 🌱 I’m looking to collaborate on data science projects
 - 📫 oandres.rincon@udea.edu.co
 
 ---
@@ -24,7 +23,7 @@ MSc. in Physics from the University of Antioquia, in Colombia. I am currently fr
 ### Have a look at some examples of my work:
 
 - [Generate Virtual Medical Reports from real data](https://github.com/NabilLawrence/EndoGPT)
-
+- [Build recommendation systems to recommend Netflix movies to users] (https://github.com/oandresrincon/RecommendationSystemsNetflix)
 ---
 
 ### 💻 Programing languages and tools: 
