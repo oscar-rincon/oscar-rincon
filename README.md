@@ -24,6 +24,7 @@
 - [Generate Virtual Medical Reports from real data](https://github.com/NabilLawrence/EndoGPT)
 - [Build recommendation systems to recommend Netflix movies to users](https://github.com/oandresrincon/RecommendationSystemsNetflix)
 - [Predict whether a passenger was satisfied or not considering his/her overall experience of traveling on the Shinkansen Bullet Train.](https://github.com/oandresrincon/ShinkansenTravelExperience/blob/master/ShinkansenTravelExperience.ipynb)
+- [LaTeX template for thesis manuscript development.](https://github.com/oandresrincon/TemplateThesisUdeA)
 ---
 
 ### 💻 Programing languages and tools: 
