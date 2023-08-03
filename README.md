@@ -5,8 +5,7 @@
 
 ## Hi, I’m Oscar Rincon 👋 
 
-MSc. in Physics from the University of Antioquia, in Colombia. I am currently freelancer as LaTeX book designer for the publishing house of the Universidad de Antioquia. 
-- 📚 I'm doing the [Deep Learning Specialization of Coursera](https://www.coursera.org/specializations/deep-learning)
+- 📚 I'm currently doing the [Deep Learning Specialization of Coursera](https://www.coursera.org/specializations/deep-learning)
 - 📫 oandres.rincon@udea.edu.co
 
 ---
@@ -24,6 +23,7 @@ MSc. in Physics from the University of Antioquia, in Colombia. I am currently fr
 
 - [Generate Virtual Medical Reports from real data](https://github.com/NabilLawrence/EndoGPT)
 - [Build recommendation systems to recommend Netflix movies to users](https://github.com/oandresrincon/RecommendationSystemsNetflix)
+- [Predict whether a passenger was satisfied or not considering his/her overall experience of traveling on the Shinkansen Bullet Train.](https://github.com/oandresrincon/ShinkansenTravelExperience/blob/master/ShinkansenTravelExperience.ipynb)
 ---
 
 ### 💻 Programing languages and tools: 
