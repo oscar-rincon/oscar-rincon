@@ -15,7 +15,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/oscar-rincón-47319a23a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oscar-rincón-47319a23a" height="30" width="40" /></a>
-<a href="https://kaggle.com/scarandrsrincncardeo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="scarandrsrincncardeo" height="30" width="40" /></a>
+<!--<a href="https://kaggle.com/scarandrsrincncardeo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="scarandrsrincncardeo" height="30" width="40" /></a> -->
 </p>
 
 ---
