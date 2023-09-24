@@ -1,7 +1,7 @@
-![image](https://github.com/oandresrincon/oandresrincon/assets/37229897/a5685380-7cb3-4461-8b51-cadf512d9e4b)
+![image](https://github.com/oandresrincon/oandresrincon/assets/37229897/7d688360-f3c4-4006-a071-5af2619a4a8c)
 
 
-<img align="right" width="500" src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif">
+<!-- <img align="right" width="500" src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif">
 
 
 ## Hi, I’m Oscar Rincon 👋 
