@@ -1,4 +1,4 @@
-![image](https://github.com/oandresrincon/oandresrincon/assets/37229897/ed90316a-1040-49a9-af73-68f8e9fb2349)
+![image](https://github.com/oandresrincon/oandresrincon/assets/37229897/a5685380-7cb3-4461-8b51-cadf512d9e4b)
 
 
 <img align="right" width="500" src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif">
