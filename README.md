@@ -51,10 +51,10 @@
 
 ### My GitHub stats: 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oandresrincon&label=Profile%20views&color=0e75b6&style=flat" alt="oandresrincon" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Oscar-Rincon&label=Profile%20views&color=0e75b6&style=flat" alt="Oscar-Rincon" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oandresrincon" alt="oandresrincon" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Oscar-Rincon" alt="Oscar-Rincon" /></a> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oandresrincon&count_private=true&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oandresrincon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oscar-Rincon&count_private=true&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscar-Rincon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
