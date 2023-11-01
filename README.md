@@ -25,7 +25,7 @@
 - [Generate Virtual Medical Reports from real data](https://github.com/NabilLawrence/EndoGPT)
 - [Build recommendation systems to suggest Netflix movies to users](https://github.com/oscar-rincon/RecommendationSystemsNetflix)
 - [Predict whether a passenger was satisfied or not considering his/her overall experience of traveling on the Shinkansen Bullet Train.](https://github.com/oscar-rincon/ShinkansenTravelExperience/blob/master/ShinkansenTravelExperience.ipynb)
-- [LaTeX template for thesis manuscript development](https://github.com/oscar-rincon/TemplateThesisUdeA)
+- [LaTeX template for thesis manuscript development](https://github.com/oscar-rincon/template-thesis-UdeA)
 - [Mathematical model of calcium in skeletal muscle fiber cells using Python](https://github.com/oscar-rincon/CalciumDiffusionModel)
 
 ---
