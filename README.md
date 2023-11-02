@@ -6,7 +6,7 @@
 
 ## Hi, I’m Oscar Rincon 👋 
 
-- 📚 I'm currently doing the [IBM DevOps and Software Engineering Professional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
+- 📚 I'm currently doing the [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer)
 - 📫 oandres.rincon@udea.edu.co
 
 ---
