@@ -8,6 +8,8 @@
 
 ---
 
+I am currently working on [computational modeling of wave propagation with neural networks based models](https://github.com/oscar-rincon/comparative-wave)
+
 ### Have a look at some examples of my work:
 
 - [Generate Virtual Medical Reports from real data](https://github.com/NabilLawrence/EndoGPT)
