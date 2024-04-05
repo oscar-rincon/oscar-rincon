@@ -6,7 +6,6 @@
 
 ## Hi, I’m Oscar Rincon 👋 
 
----
 
 I am currently working on [computational modeling of wave propagation with neural networks based models](https://github.com/oscar-rincon/comparative-wave)
 
