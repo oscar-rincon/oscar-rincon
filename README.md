@@ -7,7 +7,7 @@
 ## Hi, I’m Oscar Rincon 👋 
 
 
-I am currently working on [computational modeling of wave propagation with neural networks based models](https://github.com/oscar-rincon/comparative-wave)
+I am currently working on [[Re] Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations](https://github.com/oscar-rincon/ReScience-PINNs)
 
 ### Have a look at some examples of my work:
 
