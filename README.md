@@ -4,7 +4,7 @@
 <!-- <img align="right" width="500" src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif"> -->
 
 
-## Hi, I’m Oscar Rincon 👋 
+## Hi, I’m Oscar Rincón Cardeño 👋 
 
 
 I am currently working on [[Re] Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations](https://github.com/oscar-rincon/ReScience-PINNs)
