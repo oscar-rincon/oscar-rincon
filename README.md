@@ -7,7 +7,7 @@
 ## Hi, I’m Oscar Rincón Cardeño 👋 
 
 
-I am currently working on [[Re] Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations](https://github.com/oscar-rincon/ReScience-PINNs)
+I am currently working on [Comparative Analysis of Wave Scattering Numerical Modeling Using the Boundary Element Method and Physics-Informed Neural Networks](https://github.com/oscar-rincon/comparative-bem-pinns)
 
 ### Have a look at some examples of my work:
 
