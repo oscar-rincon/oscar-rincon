@@ -37,13 +37,3 @@ I am currently working on [Comparative Analysis of Wave Scattering Numerical Mod
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ---
-
-### My GitHub stats: 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oscar-rincon&label=Profile%20views&color=0e75b6&style=flat" alt="oscar-rincon" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscar-rincon" alt="Oscar-Rincon" /></a> </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscar-rincon&count_private=true&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscar-rincon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
