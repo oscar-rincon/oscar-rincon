@@ -7,7 +7,7 @@
 ## Hi, I’m Oscar Rincón Cardeño 👋 
 
 
-I am currently working on [Comparative Analysis of Wave Scattering Numerical Modeling Using the Boundary Element Method and Physics-Informed Neural Networks](https://github.com/oscar-rincon/comparative-bem-pinns)
+I am currently working on [a Scoping Review of Machine Learning Approaches for Wave Propagation Modeling in Seismology]([https://github.com/oscar-rincon/comparative-bem-pinns](https://github.com/oscar-rincon/scoping-ml-wave-seismology.git))
 
 ### Have a look at some examples of my work:
 
