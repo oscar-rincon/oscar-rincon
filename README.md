@@ -7,14 +7,12 @@
 ## Hi, I’m Oscar Rincón Cardeño 👋 
 
 
-I am currently working on [A Scoping Review of Machine Learning Approaches for Wave Propagation Modeling in Seismology](https://github.com/oscar-rincon/scoping-ml-wave-seismology.git)
+I am currently working on [Evaluation of Sampling Strategies and Physics-Informed Kolmogorov-Arnold Networks in Unbounded Domains](https://github.com/oscar-rincon/unbounded-domains)
 
 ### Have a look at some examples of my work:
 
 - [Benchmarking Physics-Informed Neural Networks and Boundary Element Method](https://github.com/oscar-rincon/benchmarking-bem-pinns)
-- [Generate Virtual Medical Reports from real data](https://github.com/NabilLawrence/EndoGPT)
-- [LaTeX template for thesis manuscript development](https://github.com/oscar-rincon/template-thesis-UdeA)
-- [Mathematical model of calcium in skeletal muscle fiber cells using Python](https://github.com/oscar-rincon/CalciumDiffusionModel)
+- [A Scoping Review of Machine Learning Approaches for Wave Propagation Modeling in Seismology](https://github.com/oscar-rincon/scoping-ml-wave-seismology.git)
 
 ---
 
