@@ -7,10 +7,11 @@
 ## Hi, I’m Oscar Rincón Cardeño 👋 
 
 
-I am currently working on [Evaluation of Sampling Strategies and Physics-Informed Kolmogorov-Arnold Networks in Unbounded Domains](https://github.com/oscar-rincon/unbounded-domains)
+I am currently working on [Subsurface Characterization of Archaeological Terraces at Ciudad Perdida](https://github.com/oscar-rincon/ciudad-perdida-hvsr)
 
 ### Have a look at some examples of my work:
 
+- [Evaluation of Sampling Strategies and Physics-Informed Kolmogorov-Arnold Networks in Unbounded Domains](https://github.com/oscar-rincon/unbounded-domains)
 - [Benchmarking Physics-Informed Neural Networks and Boundary Element Method](https://github.com/oscar-rincon/benchmarking-bem-pinns)
 - [A Scoping Review of Machine Learning Approaches for Wave Propagation Modeling in Seismology](https://github.com/oscar-rincon/scoping-ml-wave-seismology.git)
 
